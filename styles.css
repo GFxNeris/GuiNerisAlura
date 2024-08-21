@@ -1,0 +1,61 @@
+body{
+    color:whitesmoke;
+background: black;
+margin: 0px;
+margin-bottom: 150px;
+
+}
+
+header{
+border-bottom: solid 1px;
+padding: 20px;
+font-size: 30;color: rgb(223 175 31);
+font-family: "Matemasie", sans-s
+}
+.filmes{
+    font-family: "New Amsterdam", sans-serif;
+    background: rgb(21 21 72);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamda-texto{
+
+    margin-right: 5%;
+}
+
+h1{ font-size: 35px
+
+}
+
+p{font-size}
+
+
+img{
+    height: 150px;
+
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px ;
+}
+.categoria-videos img{
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 20px solidy yellow
+}
+.categoria h2{
+    color: rgb(223 175 31);
+}
